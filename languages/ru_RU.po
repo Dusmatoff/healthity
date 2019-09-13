@@ -1,0 +1,433 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-12-23 16:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-08-12 08:14+0000\n"
+"Last-Translator: healthity-admin <dusmatov9999@gmail.com>\n"
+"Language-Team: \n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: 404.php:24
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:26
+msgid "Sorry, but we have trouble finding the page you are requesting"
+msgstr ""
+
+#: 404.php:28
+msgid "back to main page"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:93
+msgid "Healthity"
+msgstr ""
+
+#: footer.php:273
+msgid "pre-order"
+msgstr ""
+
+#: footer.php:275
+msgid "add to cart"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:48
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:107
+msgid "Add widgets here."
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:45
+msgid "Primary Menu"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:72
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89 template-parts/content-page.php:35
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:31
+msgid "Home"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "_s"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://underscores.me/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Hi. I'm a starter theme called <code>_s</code>, or <em>underscores</em>, if "
+"you like. I'm a theme meant for hacking so don't use me as a <em>Parent "
+"Theme</em>. Instead try turning me into the next, most awesome, WordPress "
+"theme out there. That's what I'm here for."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://automattic.com/"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. contact-page.php:47
+msgid "Address:"
+msgstr ""
+
+#. contact-page.php:55
+msgid "Telefon:"
+msgstr ""
+
+#. contact-page.php:65
+msgid "E-mail:"
+msgstr ""
+
+#. faq-page.php:33
+msgid "Search Here..."
+msgstr ""
+
+#. faq-page.php:44
+msgid "How to take supplements?"
+msgstr ""
+
+#. faq-page.php:45
+msgid "Shop supplements"
+msgstr ""
+
+#. faq-page.php:46
+msgid "Benefits of supplements"
+msgstr ""
+
+#. faq-page.php:47
+msgid "Flexonorm"
+msgstr ""
+
+#. footer.php:23
+msgid "Join Our Newsletter Now"
+msgstr ""
+
+#. footer.php:90
+msgid "Copyright"
+msgstr ""
+
+#. footer.php:100
+msgid "Development"
+msgstr ""
+
+#. footer.php:141
+msgid "Shopping cart"
+msgstr ""
+
+#. footer.php:262
+msgid "Quantity"
+msgstr ""
+
+#. footer.php:298
+msgid "No products found"
+msgstr ""
+
+#. footer.php:319
+msgid "Login"
+msgstr ""
+
+#. footer.php:353
+msgid "Create Account"
+msgstr ""
+
+#. footer.php:385
+msgid "Reset your password"
+msgstr ""
+
+#. footer.php:389
+msgid "We will send you an email to reset your password."
+msgstr ""
+
+#. footer.php:428
+msgid "Thank you!"
+msgstr ""
+
+#. footer.php:428
+msgid "Your message has been successfully sent. Our managers will contact you!"
+msgstr ""
+
+#. footer.php:466
+msgid "You have successfully subscribed to our newsletter."
+msgstr ""
+
+#. footer.php:492
+msgid "You are logged as:"
+msgstr ""
+
+#. footer.php:498
+msgid "Go to site"
+msgstr ""
+
+#. homepage.php:145
+msgid "View more"
+msgstr ""
+
+#. template-parts/posts-slider.php:13
+msgid "Similar Posts"
+msgstr ""
+
+#. template-parts/share.php:2
+msgid "Share:"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-login.php:8
+msgid "Username or email address"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-login.php:38
+msgid "Password *"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-login.php:73
+msgid "Login"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-login.php:82
+msgid "Create an account"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-register.php:12
+msgid "Name *"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-register.php:17
+msgid "Last Name *"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-register.php:36
+msgid "Repeat Password *"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-register.php:41
+msgid "Create"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-register.php:45
+msgid "Already have account?"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-register.php:45
+msgid "Sing in here"
+msgstr ""
+
+#. woocommerce/includes/parts/wc-form-register.php:67
+msgid "Submit"
+msgstr ""
+
+#. woocommerce/includes/wc-functions.php:76
+msgid "quick View"
+msgstr ""
+
+#. woocommerce/includes/wc-functions.php:122
+msgid "Other Products"
+msgstr ""
+
+#. woocommerce/includes/wc-functions.php:197
+msgid "pack"
+msgstr ""
+
+#. woocommerce/includes/wc-functions.php:205
+msgid "add to cart"
+msgstr ""
+
+#. woocommerce/archive-product.php:52
+msgid "All"
+msgstr ""
+
+#. woocommerce/content-product.php:39
+msgid "Sale!"
+msgstr ""
+
+#. woocommerce/content-single-product.php:40
+msgid "HOME"
+msgstr ""
+
+#. woocommerce/content-single-product.php:41
+msgid "CATALOG"
+msgstr ""
+
+#. woocommerce/single-product/tabs/tabs.php:40
+msgid "How to apply"
+msgstr ""
+
+#. woocommerce/single-product/tabs/tabs.php:40
+msgid "Benefit of the supplements"
+msgstr ""
+
+#. woocommerce/single-product/tabs/tabs.php:40
+msgid "FAQ"
+msgstr ""
+
+#. mini-cart.php:126
+msgid "Cart Totals:"
+msgstr ""
+
+#. woocommerce/checkout/mini-cart.php:139
+msgid "No products in the cart."
+msgstr ""
+
+#. woocommerce/checkout/form-billing.php:145
+msgid "Create account"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:43
+msgid "Contact information"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:45
+msgid "Already have account ?"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:45
+msgid "Log in"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:52
+msgid "continue to shipping method"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:56
+msgid "Return to shop"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:80
+msgid "Shipping method"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:96
+msgid "continue to payment method"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:102
+msgid "Return to customer information"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:119
+msgid "Payment"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:125
+msgid "Contact"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:130
+msgid "Change"
+msgstr ""
+
+#. woocommerce/checkout/form-checkout.php:130
+msgid "Save"
+msgstr ""
